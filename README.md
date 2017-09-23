@@ -9,3 +9,5 @@ C# version of https://github.com/ButternCream/PyMoodleEvents
 4) Start
 
 **Checks for texts every minute**
+
+*Make sure chromedriver.exe (under driver folder) is in the same directory as the built exe*
